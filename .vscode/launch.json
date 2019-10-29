@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "br.ufpe.cin.if688.minijava.Main",
+            "projectName": "minijava"
+        }
+    ]
+}
